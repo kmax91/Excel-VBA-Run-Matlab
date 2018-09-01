@@ -5,7 +5,7 @@ There are two buttons in this file.
 Button 1 get the list of all matlab files present in the current folder.  
 Button 2 runs each of the files.  
 
-**Warnings  
+**Warnings**    
 1): If you are running too many .m files, keep an eye on the Disk Utilization of your computer.  
 2): In order to save time, the Matlab GIU is not launched. However, you should be able to see all charts the are created within your .m file.
 
